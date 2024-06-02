@@ -3,7 +3,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
-export const HeaderSocials = () => {
+const HeaderSocials = () => {
   return (
     <div className="header__socials">
         <a href="https://www.linkedin.com/in/jtaren" target="_blank"><FaLinkedin /></a>
